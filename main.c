@@ -38,7 +38,7 @@ int main() {
         
         can_comm_front(&frontSensors);
 
-        time_delay(3,140);
+        time_delay(3,140);//comentario añadido prueba
     }
     return (EXIT_SUCCESS);
 }
